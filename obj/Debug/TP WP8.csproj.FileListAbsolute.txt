@@ -1,0 +1,38 @@
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\App.g.i.cs
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\App.g.cs
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\MainPage.g.i.cs
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\MainPage.g.cs
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\XamlTypeInfo.g.cs
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\App.xaml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\App.xbf
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\XamlSaveStateFile.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\App.xbf
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\MainPage.xbf
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\TP WP8.xr.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\TP WP8.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\TP WP8.pdb
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\resources.pri
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\AppxManifest.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\TP WP8.build.appxrecipe
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\MainPage.xaml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\MainPage.xbf
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\TP WP8.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\TP WP8.pdb
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\priconfig.xml
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\priconfig.xml.intermediate
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\layout.resfiles
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\layout.resfiles.intermediate
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\resources.resfiles
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\resources.resfiles.intermediate
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\pri.resfiles
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\pri.resfiles.intermediate
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\qualifiers.txt
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\qualifiers.txt.intermediate
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\nicolas\documents\visual studio 2013\Projects\TP WP8\TP WP8\obj\Debug\ProjectArchitectures.txt
